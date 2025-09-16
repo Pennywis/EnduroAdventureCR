@@ -43,14 +43,6 @@ const Hero = () => {
           </div>
         </div>
       </div>
-      
-      {/* Scroll Indicator */}
-      <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 text-white/60">
-        <div className="flex flex-col items-center space-y-2">
-          <span className="text-sm tracking-wider">START YOUR ADVENTURE</span>
-          <div className="w-px h-12 bg-white/30"></div>
-        </div>
-      </div>
     </section>
   );
 };
