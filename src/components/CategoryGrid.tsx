@@ -86,7 +86,7 @@ const CategoryGrid = () => {
             START YOUR ADVENTURE
           </p>
           <h2 className="text-4xl md:text-5xl font-black mb-6">
-            EXPLORE HARD ENDURO
+            EXPLORE ENDURO ADVENTURE COSTA RICA
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Content hand selected by enduro enthusiasts ensuring that it is relevant and valuable to you.
