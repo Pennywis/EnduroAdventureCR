@@ -12,8 +12,6 @@ const Navigation = () => {
     { label: "RACES", href: "#races" },
     { label: "BRANDS", href: "#brands" },
     { label: "DESTINATIONS", href: "#destinations" },
-    { label: "TOURS", href: "#tours" },
-    { label: "ARTICLES", href: "#articles" },
     { label: "ABOUT", href: "#about" },
     { label: "CONTACT", href: "#contact" },
   ];
@@ -23,7 +21,7 @@ const Navigation = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <div className="text-xl font-black tracking-wider">
-            ENDURO WOW
+            Enduro Adventure CR
           </div>
           
           {/* Desktop Navigation */}
