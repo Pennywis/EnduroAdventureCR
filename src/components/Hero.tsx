@@ -23,7 +23,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-lg md:text-xl text-white/90 mb-8 max-w-2xl mx-auto leading-relaxed">
-            Enduro Adventure CR was started by a group of Hard Enduro enthusiasts to create a community driven, authentic platform for everything enduro.
+            Enduro Adventure CR brings together riders with an authentic, community-driven platform celebrating all things enduro.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
