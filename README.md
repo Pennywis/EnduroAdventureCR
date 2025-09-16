@@ -1,16 +1,10 @@
-# Welcome to your Lovable project
+# Welcome to Enduro Adventure CR
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/7f951792-aeb5-4383-9523-5584b5bfc6ef
+**URL**:
 
-## How can I edit this code?
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/7f951792-aeb5-4383-9523-5584b5bfc6ef) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
