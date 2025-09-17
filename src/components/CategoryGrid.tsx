@@ -1,6 +1,6 @@
 import { ArrowRight } from "lucide-react";
 import ridersImage from "@/assets/FE-250.jpg";
-import bikesImage from "@/assets/husky.jpg";
+import bikesImage from "@/assets/husky.jpeg";
 import racesImage from "@/assets/riders-g.jpg";
 
 interface CategoryCardProps {
